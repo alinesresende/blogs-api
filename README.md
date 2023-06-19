@@ -1,6 +1,6 @@
-# API de Blogs! 🚀
+# Blog API! 🚀
 
-### Developed an API and a database to produce content for a blog!
+#### Development of an application to create a RESTful API with complete CRUD and database, focused on producing content for a blog.
 
 <details>
   <summary><strong>👨‍💻 Skills </strong></summary>
@@ -29,6 +29,13 @@
 
 
   <br />
+  </details>
+  <details>
+        <summary><strong> :bookmark_tabs: Diagram </strong></summary>
+        
+<img src= 'https://raw.githubusercontent.com/tryber/sd-028-a-project-blogs-api/master/public/der.png?token=GHSAT0AAAAAACCBHQMX2QVR4CZO26WUUUYCZEQTYVA'/>
+
+    
   </details>
 
 
