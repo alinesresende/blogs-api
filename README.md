@@ -4,16 +4,14 @@
 
 <details>
   <summary><strong>👨‍💻 Skills </strong></summary>
+  
+  `- NodeJS - Express`
 
-  1. NodeJS
+ ` - Sequelize - MySQL; `
 
-  2. Sequelize; 
+ ` - Authentication using JWT (JSON Web Token).`
 
-  3. Authentication using JWT (JSON Web Token).
-
-<br />
 </details>
-
 <details>
   <summary><strong>🐋 Docker</strong></summary>
 
@@ -36,74 +34,74 @@
 
 # Challenges
 
-### 1 - Created migrations for `users`, `categories`, `blog_posts`, `posts_categories` tables
+##### 1 - Created migrations for `users`, `categories`, `blog_posts`, `posts_categories` tables
 
 ---
 
 
-### 2 - Created `User` model in `src/models/User.js` with correct properties
+##### 2 - Created `User` model in `src/models/User.js` with correct properties
 
 ---
 
-### 3 - Created o endpoint POST `/login`
+##### 3 - Created o endpoint POST `/login`
 
 ---
 
-### 4 - Created endpoint POST `/user`
+##### 4 - Created endpoint POST `/user`
 
 ---
 
-### 5 - Created endpoint GET `/user`
+##### 5 - Created endpoint GET `/user`
 
 ---
 
-### 6 - Created endpoint GET `/user/:id`
+##### 6 - Created endpoint GET `/user/:id`
 
 ---
 
-### 7 - Created `Category` model in `src/models/Category.js` with correct properties
+##### 7 - Created `Category` model in `src/models/Category.js` with correct properties
 
 ---
 
-### 8 - Created endpoint POST `/categories`
+##### 8 - Created endpoint POST `/categories`
 
 ---
 
-### 9 - Created endpoint GET `/categories`
+##### 9 - Created endpoint GET `/categories`
 
 ---
 
-### 10 - Created `BlogPost` model in `src/models/BlogPost.js` with correct properties and associationsas 
+##### 10 - Created `BlogPost` model in `src/models/BlogPost.js` with correct properties and associationsas 
 
 ---
 
-### 11 - Created the `PostCategory` model in `src/models/PostCategory.js` with the correct properties and associations
+##### 11 - Created the `PostCategory` model in `src/models/PostCategory.js` with the correct properties and associations
 
 ---
 
-### 12 - Created endpoint POST `/post`
+##### 12 - Created endpoint POST `/post`
 
 ---
 
-### 13 - Created endpoint GET `/post`
+##### 13 - Created endpoint GET `/post`
 
 ---
 
-### 14 - Created endpoint GET `/post/:id`
+##### 14 - Created endpoint GET `/post/:id`
 
 ---
 
-### 15 - Created endpoint PUT `/post/:id`
+##### 15 - Created endpoint PUT `/post/:id`
 
 ---
 
-### 16 - Created endpoint DELETE `/post/:id`
+##### 16 - Created endpoint DELETE `/post/:id`
 
 ---
 
-### 17 - Created endpoint DELETE `/user/me`
+##### 17 - Created endpoint DELETE `/user/me`
 
 ---
 
-### 18 - Created GET `/post/search?q=:searchTerm`
+##### 18 - Created GET `/post/search?q=:searchTerm`
 
