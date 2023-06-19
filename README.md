@@ -4,12 +4,11 @@
 
 <details>
   <summary><strong>👩🏻‍💻 Skills </strong></summary>
-  
-  `- NodeJS - Express`
+</br>
 
- ` - Sequelize - MySQL; `
-
- ` - Authentication using JWT (JSON Web Token).`
+ - NodeJS - Express
+ - Sequelize - MySQL; 
+ - Authentication - `JWT (JSON Web Token)`.
 
 </details>
 <details>
