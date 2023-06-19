@@ -16,9 +16,6 @@
 
 <details>
   <summary><strong>🐋 Docker</strong></summary>
- 
-  **:warning: Antes de começar, seu docker-compose precisa estar na versão 1.29 ou superior. [Veja aqui](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt) ou [na documentação](https://docs.docker.com/compose/install/) como instalá-lo. No primeiro artigo, você pode substituir onde está com `1.26.0` por `1.29.2`.**
-
 
   > :information_source: Run the `node` and `db` services with the command `docker-compose up -d --build`.
 
@@ -39,56 +36,74 @@
 
 # Challenges
 
-#### 1 - Created migrations for `users`, `categories`, `blog_posts`, `posts_categories` tables
+### 1 - Created migrations for `users`, `categories`, `blog_posts`, `posts_categories` tables
+
+---
 
 
-#### 2 - Created `User` model in `src/models/User.js` with correct properties
+### 2 - Created `User` model in `src/models/User.js` with correct properties
 
+---
 
-#### 3 - Created o endpoint POST `/login`
+### 3 - Created o endpoint POST `/login`
 
+---
 
-#### 4 - Created endpoint POST `/user`
+### 4 - Created endpoint POST `/user`
 
+---
 
-#### 5 - Created endpoint GET `/user`
+### 5 - Created endpoint GET `/user`
 
+---
 
-#### 6 - Created endpoint GET `/user/:id`
+### 6 - Created endpoint GET `/user/:id`
 
+---
 
-#### 7 - Created `Category` model in `src/models/Category.js` with correct properties
+### 7 - Created `Category` model in `src/models/Category.js` with correct properties
 
+---
 
-#### 8 - Created endpoint POST `/categories`
+### 8 - Created endpoint POST `/categories`
 
+---
 
-#### 9 - Created endpoint GET `/categories`
+### 9 - Created endpoint GET `/categories`
 
+---
 
-#### 10 - Created `BlogPost` model in `src/models/BlogPost.js` with correct properties and associationsas 
+### 10 - Created `BlogPost` model in `src/models/BlogPost.js` with correct properties and associationsas 
 
+---
 
-#### 11 - Created the `PostCategory` model in `src/models/PostCategory.js` with the correct properties and associations
+### 11 - Created the `PostCategory` model in `src/models/PostCategory.js` with the correct properties and associations
 
+---
 
-#### 12 - Created endpoint POST `/post`
+### 12 - Created endpoint POST `/post`
 
+---
 
-#### 13 - Created endpoint GET `/post`
+### 13 - Created endpoint GET `/post`
 
+---
 
-#### 14 - Created endpoint GET `/post/:id`
+### 14 - Created endpoint GET `/post/:id`
 
+---
 
-#### 15 - Created endpoint PUT `/post/:id`
+### 15 - Created endpoint PUT `/post/:id`
 
+---
 
-#### 16 - Created endpoint DELETE `/post/:id`
+### 16 - Created endpoint DELETE `/post/:id`
 
+---
 
-#### 17 - Created endpoint DELETE `/user/me`
+### 17 - Created endpoint DELETE `/user/me`
 
+---
 
-#### 18 - Created GET `/post/search?q=:searchTerm`
+### 18 - Created GET `/post/search?q=:searchTerm`
 
