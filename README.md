@@ -3,7 +3,7 @@
 #### Development of an application to create a RESTful API with complete CRUD and database, focused on producing content for a blog.
 
 <details>
-  <summary><strong>👨‍💻 Skills </strong></summary>
+  <summary><strong>👩🏻‍💻 Skills </strong></summary>
   
   `- NodeJS - Express`
 
@@ -39,7 +39,7 @@
   </details>
 
 
-# Challenges
+# :game_die: Challenges
 
 ##### 1 - Created migrations for `users`, `categories`, `blog_posts`, `posts_categories` tables
 
