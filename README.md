@@ -1,6 +1,6 @@
 # Blog API! 🚀
 
-#### Development of an application to create a RESTful API with complete CRUD and database, focused on producing content for a blog.
+Created of an application to create a RESTful API with complete CRUD and database, focused on producing content for a blog.
 
 <details>
   <summary><strong>👩🏻‍💻 Skills </strong></summary>
