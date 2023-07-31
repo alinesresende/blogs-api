@@ -54,7 +54,6 @@ const searchAllPost = async (q) => {
     { model: Category, as: 'categories', through: { attributes: [] } },
    ],
     });
-    console.log(search, 'oiiiiiiii');
   return search;
 };
 
